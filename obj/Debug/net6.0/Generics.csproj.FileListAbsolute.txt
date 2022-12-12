@@ -1,0 +1,15 @@
+C:\RFP-231-Assg\Generics\New folder\Generics\obj\Debug\net6.0\Generics.csproj.AssemblyReference.cache
+C:\RFP-231-Assg\Generics\New folder\Generics\obj\Debug\net6.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP-231-Assg\Generics\New folder\Generics\obj\Debug\net6.0\Generics.AssemblyInfoInputs.cache
+C:\RFP-231-Assg\Generics\New folder\Generics\obj\Debug\net6.0\Generics.AssemblyInfo.cs
+C:\RFP-231-Assg\Generics\New folder\Generics\obj\Debug\net6.0\Generics.csproj.CoreCompileInputs.cache
+C:\RFP-231-Assg\Generics\New folder\Generics\bin\Debug\net6.0\Generics.exe
+C:\RFP-231-Assg\Generics\New folder\Generics\bin\Debug\net6.0\Generics.deps.json
+C:\RFP-231-Assg\Generics\New folder\Generics\bin\Debug\net6.0\Generics.runtimeconfig.json
+C:\RFP-231-Assg\Generics\New folder\Generics\bin\Debug\net6.0\Generics.dll
+C:\RFP-231-Assg\Generics\New folder\Generics\bin\Debug\net6.0\Generics.pdb
+C:\RFP-231-Assg\Generics\New folder\Generics\obj\Debug\net6.0\Generics.dll
+C:\RFP-231-Assg\Generics\New folder\Generics\obj\Debug\net6.0\refint\Generics.dll
+C:\RFP-231-Assg\Generics\New folder\Generics\obj\Debug\net6.0\Generics.pdb
+C:\RFP-231-Assg\Generics\New folder\Generics\obj\Debug\net6.0\Generics.genruntimeconfig.cache
+C:\RFP-231-Assg\Generics\New folder\Generics\obj\Debug\net6.0\ref\Generics.dll
